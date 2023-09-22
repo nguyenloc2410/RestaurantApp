@@ -1,0 +1,14 @@
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\bin\Debug\Coffee_Manage.exe.config
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\bin\Debug\Coffee_Manage.exe
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\bin\Debug\Coffee_Manage.pdb
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.csproj.AssemblyReference.cache
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.Form1.resources
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.Properties.Resources.resources
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.csproj.GenerateResource.cache
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.exe
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.pdb
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.fManage.resources
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.fAccountDetail.resources
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.fChangePassWord.resources
+C:\Users\Nguyen Loc\source\repos\Coffee_Manage\obj\Debug\Coffee_Manage.Admin.resources
